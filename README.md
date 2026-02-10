@@ -7,7 +7,8 @@ Avaliação em dupla de laboratório de programação - Arthur Fagundes / Cauã 
 
 -Outro arquivo para validação dos inputs (schemas/GameSchema.py)
 
--Outro arquivo para a modularização das regras de negócio (services/Games.py)
+-Outro arquivo para a modularização das regras de negócio (services/Games.py), como a inserção dos dados no arquivo csv,
+exclusão de jogo por id, listagem de todos os jogos, registro
 
 -(main.py utiliza dos módulos para rodar a aplicação)
 
